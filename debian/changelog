@@ -1,0 +1,51 @@
+ros-indigo-smarthome-media-kodi-driver (0.1.57-0saucy) saucy; urgency=high
+
+  * Clean package info
+  * Update package dependencies
+    Update messages packages names
+  * Rename package name to smarthome_media_kodi_driver
+  * Remove building dependency
+  * Update package description & license
+  * Contributors: Alfred Team, Erwan Le Huitouze
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Sat, 04 Jun 2016 22:00:00 -0000
+
+ros-indigo-smarthome-media-kodi-driver (0.1.52-0saucy) saucy; urgency=high
+
+  * Update dependencies
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Sat, 28 Nov 2015 23:00:00 -0000
+
+ros-indigo-smarthome-media-kodi-driver (0.1.50-0saucy) saucy; urgency=high
+
+  * Apply new package architecture
+  * Update xbmc configuration
+  * Apply ros base changes
+  * Update gradle & dependencies
+  * Contributors: Erwan Le Huitouze, Mickael Gaillard
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Sat, 21 Nov 2015 17:05:00 -0000
+
+ros-indigo-smarthome-media-kodi-driver (0.1.47-0saucy) saucy; urgency=high
+
+  * Update headers
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Tue, 18 Aug 2015 22:00:00 -0000
+
+ros-indigo-smarthome-media-kodi-driver (0.1.10-0saucy) saucy; urgency=high
+
+  * Update package file
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Sun, 03 May 2015 22:00:00 -0000
+
+ros-indigo-smarthome-media-kodi-driver (0.1.9-0saucy) saucy; urgency=high
+
+  * Add package
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Sat, 04 Apr 2015 22:00:00 -0000
+
+
